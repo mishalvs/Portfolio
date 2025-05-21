@@ -15,5 +15,43 @@
 ## 🧠 About Me
 
 ```bash
-> whoami
-Cybersecurity Enthusiast | Aspiring Red Teamer | Full Stack Padawan
+🕵️‍♂️ Intern @ EyeQ Dot Net - VAPT
+🛠️ Building tools for packet sniffing, malware analysis, and smart contract auditing
+🧠 Obsessed with network security, blockchain exploits, OSINT, and adversarial simulations
+⚔️ Mission: Hunt. Hack. Harden.
+
+# LAN Intrusion Alert
+PyShark + PyQt5 live packet sniffer with alerts, topology map & fingerprinting.
+
+# CrowdMint
+Decentralized crowdfunding dApp using Ethereum, Next.js & Metamask.
+
+# IoT Vulnerability Scanner
+Scans and fingerprints devices for open ports, CVEs & exploit paths.
+
+# Rubber Ducky Exploits (WIP)
+Custom payloads and automation for HID attacks on Windows machines.
+
+Languages    : Python, JavaScript, Solidity, Bash  
+Frameworks   : Next.js, Flask, PyQt5  
+Tools        : Nmap, Wireshark, Metasploit, Shodan, Burp Suite  
+OSINT        : Maltego, Spiderfoot, Recon-ng  
+Blockchain   : Web3.js, Hardhat, Remix IDE, Ganache  
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mishalvs&theme=tokyonight&show_icons=true&count_private=true" width="420" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishalvs&theme=tokyonight" width="420" /> </p>
+
+📧 Email      : mishalvs211003@gmail.com  
+🔗 LinkedIn   : https://linkedin.com/in/mishalvs  
+🌐 Portfolio  : https://mishalvs.netlify.app/  
+
+🎯 Ongoing Targets
+AI-powered packet anomaly detector
+
+Smart Contract Honeypots
+
+Custom-built Red Team C2 Framework
+
+Terminal-style GitHub Pages Portfolio
+
+<h3 align="center">💻 Hack the Planet 🌍</h3> <p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" /> </p> ```
+
