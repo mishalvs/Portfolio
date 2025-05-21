@@ -228,9 +228,9 @@ export default function ContactSection() {
         {/* Contact form */}
         <div style={{ ...styles.form, ...(showForm ? styles.formVisible : {}) }}>
           <p style={styles.sectionTitle}>Get in touch</p>
-          <h2 style={styles.heading}>Contact Us</h2>
+          <h2 style={styles.heading}>Contact Me</h2>
           <p style={styles.subText}>
-            Have a question or want to work together? Fill out the form below and we’ll get back to you.
+            Have a question or want to Hire or Work Together? Fill out the form below and we’ll get back to you.
           </p>
 
           <form onSubmit={handleSubmit}>
