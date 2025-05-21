@@ -7,7 +7,7 @@ const projects = [
     description:
       "A personal portfolio website built with React, showcasing my projects, skills, and experience with smooth animations and a modern UI.",
     img: "/photos/portfolio.jpg",
-    link: "https://github.com/mishalvs/My-Internship-Project/tree/main/E-Commerce%20Website",
+    link: "https://github.com/mishalvs/Portfolio",
   },
   {
     title: "CrowdMint",
