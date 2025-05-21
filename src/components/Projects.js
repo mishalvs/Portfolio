@@ -13,7 +13,7 @@ const projects = [
     title: "CrowdMint",
     description:
       "A decentralized crowdfunding platform built using Solidity, Web3, and Next.js.",
-    img: "/photos/CrowdMint.jpg",
+    img: "/photos/Crowdmint.jpg",
     link: "https://github.com/mishalvs/CrowdMint",
   },
   {
