@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there%2C+I'm+Mishal+V+S+%F0%9F%91%8B;Cybersecurity+%7C+Red+Team+Ops+%7C+Code+%26+Chaos" alt="Typing SVG" />
 </h1>
